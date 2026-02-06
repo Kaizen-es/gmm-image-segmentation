@@ -15,7 +15,7 @@ Segments natural images into distinct regions by modeling pixel features as samp
 - Selected model: M* = 10 components
 
 ## Dataset
-[Berkeley Segmentation Dataset (BSDS300)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/)
+[Berkeley Segmentation Dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/BSDS300/html/dataset/images.html)
 
 ## Future Work
 - Python implementation using scikit-learn
