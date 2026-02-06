@@ -16,3 +16,7 @@ Segments natural images into distinct regions by modeling pixel features as samp
 
 ## Dataset
 Berkeley Segmentation Dataset
+
+## Future Work
+- Python implementation using scikit-learn
+- Comparison with K-means baseline
